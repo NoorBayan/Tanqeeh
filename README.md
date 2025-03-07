@@ -1,8 +1,8 @@
-# Arabic Text Cleaner
+# Tanqeeh
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Arabic Text Cleaner** is a Python library designed to preprocess and clean Arabic text efficiently. It provides a comprehensive set of functions to normalize, remove unwanted characters, fix spacing issues, and enhance text quality for NLP applications.
+**Tanqeeh** is a Python library designed to preprocess and clean Arabic text efficiently. It provides a comprehensive set of functions to normalize, remove unwanted characters, fix spacing issues, and enhance text quality for NLP applications.
 
 ## Features 🚀
 - **Tatweel Removal**: Removes Arabic elongation (ـ).
