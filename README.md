@@ -17,14 +17,14 @@
 
 ## Installation 📦
 ```bash
-pip install arabic-text-cleaner
+pip install Tanqeeh
 ```
 
 ## Usage 📝
 ```python
-from arabic_text_cleaner import ArabicTextCleaner
+import Tanqeeh
 
-cleaner = ArabicTextCleaner()
+cleaner = tanqeeh()
 text = "مرررررحبااااا 🌟🌟 هذاااا نص تجريبي !!!! يحتوي على ١٢٣ وأرقام ورموز @#*&"
 cleaned_text = cleaner.full_clean(text)
 print(cleaned_text)
